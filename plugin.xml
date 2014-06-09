@@ -20,8 +20,6 @@
     <asset src="www/childbrowser.js" target="childbrowser.js" />
     <asset src="www/childbrowser" target="childbrowser" />
 
-    <asset src="www/childbrowser.js" target="js/childbrowser.js" />
-    <asset src="www/childbrowser" target="js/childbrowser" />
     <!-- android -->
     <platform name="android">
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
